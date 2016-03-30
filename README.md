@@ -22,3 +22,15 @@ _ page_list
 _ page_body
 _ page_text
 ```
+
+### how it looks in the html 
+
+```
+<div class="page_wrap"></div>
+<div class="page_name"></div>
+<div class="page_data"></div>
+<div class="page_list"></div>
+<div class="page_body"></div>
+<div class="page_text"></div>
+```
+
