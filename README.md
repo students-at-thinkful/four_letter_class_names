@@ -34,3 +34,14 @@ _ page_text
 <div class="page_text"></div>
 ```
 
+### how it looks in the css 
+
+```
+.page_wrap { }
+.page_name { }
+.page_data { }
+.page_list { }
+.page_body { }
+.page_text { }
+```
+
